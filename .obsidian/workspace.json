@@ -11,10 +11,14 @@
             "id": "54338948b619fdae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Anleitung/7. Dynamische Seiten generieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Dynamische Seiten generieren"
             }
           }
         ]
@@ -179,14 +183,6 @@
   },
   "active": "54338948b619fdae",
   "lastOpenFiles": [
-    "Anleitung/16. Troubleshooting.md",
-    "Anleitung/15. Erweiterte Architektur.md",
-    "Anleitung/14. Optional Plugins.md",
-    "Anleitung/13. Erweiterungen.md",
-    "Anleitung/12. Automatisches Git Sync.md",
-    "Anleitung/11. GitHub Pages aktivieren.md",
-    "Anleitung/10. GitHub Actions konfigurieren.md",
-    "Anleitung/9. Git Repository erstellen.md",
     "Anleitung/8. Index Seite erstellen.md",
     "Anleitung/7. Dynamische Seiten generieren.md",
     "Anleitung/6. Astro Content Collection erstellen.md",
@@ -196,6 +192,14 @@
     "Anleitung/2. Voraussetzungen.md",
     "Anleitung/1. Architektur Überblick.md",
     "Anleitung/(1.) Inhaltsverzeichnis.md",
+    "Anleitung/16. Troubleshooting.md",
+    "Anleitung/15. Erweiterte Architektur.md",
+    "Anleitung/14. Optional Plugins.md",
+    "Anleitung/13. Erweiterungen.md",
+    "Anleitung/12. Automatisches Git Sync.md",
+    "Anleitung/11. GitHub Pages aktivieren.md",
+    "Anleitung/10. GitHub Actions konfigurieren.md",
+    "Anleitung/9. Git Repository erstellen.md",
     "Anleitung/Unbenannt",
     "Inhaltsverzeichnis.md",
     "Anleitung",
